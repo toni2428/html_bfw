@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<krankehaus>
+    <patient>
+        <name>Paul Kalupke</name>
+        <temperatur>42</temperatur>
+        <zimmer>25</zimmer>
+    </patient>
+    
+    <patient>
+        <name> Manuel Weiss</name>
+        <temperature/>41</temperatur>
+        <zimmer>32</zimmer>
+    </patient>
+    
+    <patient>
+        <name> Hans Müller</name>
+        <temperature/>40</temperatur>
+        <zimmer>266</zimmer>
+    </patient>
+    
+    <patient>
+        <name> Tobias Schröder </name>
+        <temperature/>42</temperatur>
+        <zimmer>154</zimmer>
+    </patient>
+    
+    <patient>
+        <name> Andrea Kuns </name>
+        <temperature/>39</temperatur>
+        <zimmer>69</zimmer>
+    </patient>
+</krankenhaus>

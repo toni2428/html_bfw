@@ -1,0 +1,19 @@
+<!doctype html>
+<html lang="de">
+<head>
+ ...
+</head>
+
+<body>
+  
+
+  <h1>Überschrift der Seite</h1>
+  <h2 id="oben">Und schon die zweite seite</h1>
+    <ol>
+        <li>><a href="https://www.google.de/" target="_blank">1. G I D F </a> </li>
+
+        <li><a href="Meine Erste Seite.html"> 2. Lokale Seite  </a> </li>
+
+ 
+</body>
+</html>
